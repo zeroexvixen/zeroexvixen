@@ -1,16 +1,29 @@
-## Hi there 👋
+```
 
-<!--
-**zeroexvixen/zeroexvixen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ::::::::  :::    ::: :::     ::: :::    ::: ::::    :::       ::::::::      :::     ::::    ::::  :::::::::: ::::::::  
+:+:    :+: :+:    :+: :+:     :+: :+:    :+: :+:+:   :+:      :+:    :+:   :+: :+:   +:+:+: :+:+:+ :+:       :+:    :+: 
++:+    +:+  +:+  +:+  +:+     +:+  +:+  +:+  :+:+:+  +:+      +:+         +:+   +:+  +:+ +:+:+ +:+ +:+       +:+        
++#+    +:+   +#++:+   +#+     +:+   +#++:+   +#+ +:+ +#+      :#:        +#++:++#++: +#+  +:+  +#+ +#++:++#  +#++:++#++ 
++#+    +#+  +#+  +#+   +#+   +#+   +#+  +#+  +#+  +#+#+#      +#+   +#+# +#+     +#+ +#+       +#+ +#+              +#+ 
+#+#    #+# #+#    #+#   #+#+#+#   #+#    #+# #+#   #+#+#      #+#    #+# #+#     #+# #+#       #+# #+#       #+#    #+# 
+ ########  ###    ###     ###     ###    ### ###    ####       ########  ###     ### ###       ### ########## ########  
 
-Here are some ideas to get you started:
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🦊 0xVXN | Game Dev in Progress
+
+A dev-in-the-making blending code, neon, and unapologetic flair.  
+I sew clothes by day and code games by night, with a deep love for:
+
+- 🖥️ Unity & C#  
+- 🧵 Cyberpunk fashion and character design  
+- 🎮 Story-driven RPGs with femme fatale energy  
+- 💖 Turning tutorials into something that slaps
+
+Currently working through a custom 2D/3D game dev roadmap and building my portfolio here on GitHub.  
+This is just the beginning. 🔥
+
+---
+
+💌 Wanna collab, connect, or vibe?  
+Find me on [Itch.io](https://zeroexvixen.itch.io) or summon me with a 4th level spell slot ✨
